@@ -1,0 +1,57 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.esarisfoto {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+h1 {
+    color: white;
+}
+
+h4 {
+    color: hsl(75, 94%, 57%);
+    margin-top: -20px;
+}
+
+p {
+    color: white;
+    margin-top: 30px;
+    margin-top: -5px;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    height: 20px;
+    margin-bottom: 10px;
+    border: 0px solid;
+    color: white;
+
+
+
+}
+
+div {
+    background-color: hsl(0, 0%, 12%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    border-radius: 30px;
+
+}
