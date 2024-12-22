@@ -28,6 +28,11 @@ p {
     margin-top: -5px;
 }
 
+a {
+    color: white;
+    text-decoration: none
+}
+
 button {
     display: flex;
     align-items: center;
